@@ -1,0 +1,17 @@
+p{
+/*Content-Widht ve height */    
+    
+    width: 10%;
+    
+
+/*border */    
+    
+   border: 2px solid green;
+    
+/*padding */  
+padding: 100px;    
+    
+/*margin */      
+    
+    margin: 180px 40px 500px 100px;
+}

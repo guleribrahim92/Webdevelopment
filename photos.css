@@ -1,0 +1,21 @@
+img {
+    width: 30%;
+    float: left; 
+margin:1.66%;    
+
+}
+
+
+p{
+    font-family: raleway;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    border-bottom: 1px solid black;
+    width: 30%;
+padding-bottom: 20px;
+}
+
+
+//no space at all between them pictures
+//hepsi arasında eşit mesafe 10u 6 ya böldük

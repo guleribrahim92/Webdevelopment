@@ -1,0 +1,30 @@
+/*selector {
+    property:value; */
+}
+
+
+h1{
+    color:red;
+  /*  border-color: aqua;
+border-width: 5px;
+    border-style:solid; 
+*/
+    border: 5px dashed green;
+}
+
+li{
+    color: green;
+}
+
+h4{
+    background: rgb(255,100,80);
+}
+
+body{
+ 
+  
+    background: url(http://www.graphicmouse.co.uk/wp-content/uploads/2017/05/Beam-Exchange-logo-620x400.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}

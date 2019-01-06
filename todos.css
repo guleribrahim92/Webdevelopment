@@ -1,0 +1,42 @@
+/*background{
+    color: orange; */
+
+
+li {
+  border: 2px solid red;
+}
+
+
+/* single out one <li> id="anyname" only once unique */
+
+#special{
+ background:yellow;    
+    
+}
+
+/* more than two with the same class name as many as */
+
+.completed {
+    text-decoration:underline;
+}
+
+/* selectors
+
+*Element
+
+li{
+
+}
+
+*class
+
+.hello{
+    
+}
+
+*id
+#name {
+    
+}
+
+*/
