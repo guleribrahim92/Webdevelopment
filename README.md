@@ -1,2 +1,3 @@
-# Webdevelopment
+
+Eskiden kalma herşey artık github hesabımda...
 Teach yourself web programming 
